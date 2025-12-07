@@ -11,15 +11,12 @@
 
 </head>
 <body>
-    <!-- Top Navigation -->
     <nav class="top-nav">
-        <!-- Hamburger Button -->
         <button class="hamburger" id="hamburger-btn">
             <span></span>
             <span></span>
             <span></span>
         </button>
-        <!-- Navigation Links -->
         <div>
             <a href="#" onclick="showSection('home')">Home</a>
             <a href="#" onclick="showSection('about')">About Us</a>
@@ -27,9 +24,7 @@
             <a href="#" onclick="showSection('outputs')">Outputs</a>
         </div>
     </nav>
-    <!-- Main Container: Left Nav and Content -->
     <div class="main-container">
-        <!-- Left Navigation: Group Members -->
         <aside class="left-nav" id="sidebar">
             <br>
             <h2>Group Members</h2>
@@ -47,10 +42,7 @@
                 <li><a href="Jc_Personal_Porfolio/Website.html" target="_blank">John Christian Hernandez</a></li>
             </ul>
         </aside>
-
-        <!-- Content Area -->
         <main class="content">
-            <!-- Home Section (Default Active) -->
             <section id="home" class="section active">
                 <h1>Welcome to Batangas State University</h1>
                 <div class="placeholder">
@@ -67,7 +59,6 @@
                     <h3><strong>MISSION</strong></h3>
                     <p>A university committed to producing leaders by providing a 21st century learning environment through innovations in education, multidisciplinary research, and community and industry partnerships in order to nurture the spirit of nationhood, propel the national economy, and engage the world for sustainable development.</p>
                 </div>
-
                 <div class="placeholder">
                     <h3><strong>CORE VALUES</strong></h3>
                     <li>Patriotism <br><br>
@@ -168,10 +159,7 @@
 </div>
 <br>
 </div>
-
             </section>
-
-            <!-- About Us Section -->
             <section id="about" class="section">
     <h1>About Us</h1>
     <div class="placeholder">
@@ -377,8 +365,6 @@
     
 <br>
 </section>
-
-            <!-- Promotional Video Section -->
             <section id="video" class="section">
                 <h1>Promotional Video</h1>
                 <div class="placeholder">
@@ -389,8 +375,6 @@
                     <br>
                 </div>
             </section>
-
-            <!-- Outputs Section -->
             <section id="outputs" class="section">
                 <h1>Outputs</h1>
                 <div class="placeholder">
@@ -408,11 +392,9 @@
     <br>
     <br>
                 </div>
-                
             </section>
         </main>
     </div>
-
     <script src="script.js"></script>
 </body>
 <footer>@ 2025 ALL RIGHTS RESERVED - BATANGAS STATE UNIVERSITY</footer>
