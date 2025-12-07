@@ -4,8 +4,9 @@
 <head>
     <link rel="icon" href="bsulogo.png" type="image/png" />   
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="Cha-ph/style.css">
+### Project Files
+- [CSS File](./style.css)
+- [JavaScript File](./script.js)
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Batangas State University</title>
 
