@@ -39,7 +39,7 @@
                 <li><a href="Cnaida_Personla_Porfolio/Website.html" target="_blank">Cnaida Ibusag</a></li>
                 <li><a href="Carl_Personal_Porfolio/Website.html" target="_blank">Carl Jefferson</a></li>
                 <li><a href="Angela_Personal_Porfolio/Website.html" target="_blank">Angela Hernandez</a></li>
-                <li><a href="Zharia_Personal_Porfolio/Website.html" target="_blank">Zaira Landicho</a></li>
+                <li><a href="Zharia_Personal_Porfolio/Website.md" target="_blank">Zaira Landicho</a></li>
                 <li><a href="Jc_Personal_Porfolio/Website.html" target="_blank">John Christian Hernandez</a></li>
             </ul>
         </aside>
